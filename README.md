@@ -9,9 +9,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Go Report Card](https://goreportcard.com/badge/github.com/AbdullahDiaa/garabic)](https://goreportcard.com/report/github.com/AbdullahDiaa/garabic)
 
-```
-	this is fork will be activly maintained
-```
+>  this is fork will be activly maintained by Ahmed Alkabir (me).
 
 > A set of functions for Arabic text processing in golang
 
